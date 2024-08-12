@@ -1,4 +1,4 @@
- Test Steps
+ Test Steps              
 1. Open https://www.lenovo.com/us/en/
 2. Click the "Services" link on the navigation bar
 3. Click the "Get Started" link under the Cyber Resiliency as a Service in the Security Services Section
@@ -9,7 +9,8 @@
   Actual Result:
    User get redirected to the "Get Started" link in Cyber Resiliency as a Service, but it opens an error page (the page you requested was not found).
 
-   
+    Test device and browser:Windows 11 Pro-Chrome
+    
 ![lenovo](https://github.com/user-attachments/assets/fe2c9228-adbf-4df8-be5c-67dd4d35647d)
 
    
